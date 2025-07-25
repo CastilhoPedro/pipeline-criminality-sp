@@ -53,7 +53,7 @@ Este projeto implementa um pipeline de ETL (Extração, Transformação e Carga)
 #### Dashboard Interativo
 ![Dashboard de Criminalidade](https://github.com/user-attachments/assets/b6c29bf3-3a15-4029-abf1-fcf9f7c40d96)
 
-*Visualização completa dos dados de criminalidade - atualizado Julho/2024*
+*Visualização completa dos dados de criminalidade - atualizado Julho/2025*
 
 ## Principais Resultados
 - Barueri apresenta o dobro de ocorrências comparado às outras cidades
