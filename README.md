@@ -1,13 +1,18 @@
 # Pipeline de ETL para Análise de Criminalidade Urbana
 
-## Visão Geral
+## Objetivo do Projeto
 
-Este projeto implementa um pipeline de ETL (Extração, Transformação e Carga) automatizado para coletar, processar e visualizar dados de criminalidade urbana das cidades de Santana de Parnaíba, Barueri e Cajamar, no estado de São Paulo. O objetivo principal é transformar dados brutos da Secretaria de Segurança Pública de São Paulo (SSP-SP) em informações acessíveis e acionáveis, permitindo a análise de padrões de criminalidade e o suporte à tomada de decisões em segurança pública.
+O principal objetivo deste projeto é ranquear e compreender o desenvolvimento da segurança pública nas cidades de **Santana de Parnaíba**, **Barueri** e **Cajamar**, com base em dados oficiais da SSP-SP. Essas três cidades possuem uma origem histórica comum — todas já fizeram parte de um único município: **Santana de Parnaíba**. Ao analisar sua evolução individual após a emancipação administrativa, o projeto busca responder:
+
+- Como cada cidade tem se desenvolvido em termos de segurança?
+- Qual delas apresenta melhor desempenho ao longo dos anos?
+- Existem padrões sazonais ou estruturais que influenciam os indicadores de criminalidade?
 
 ## Sumário Executivo
 
 - Santana de Parnaíba se destaca como a cidade mais segura entre as três analisadas
 - Taxa de crimes por 100 mil habitantes: 50% menor que Cajamar e Barueri
+- Santana e Cajamar apresentam sazonalidade
 - Metodologia replicável para outros municípios
 - Dados históricos desde 2022
 
@@ -58,7 +63,7 @@ Este projeto implementa um pipeline de ETL (Extração, Transformação e Carga)
 ## Principais Resultados
 - Barueri apresenta o dobro de ocorrências comparado às outras cidades
 - Santana de Parnaíba: 50% mais segura que as demais (taxa por 100k hab.)
-- Padrões de sazonalidade identificados (especialmente em Cajamar e Santana de Parnaíba)
+- Padrões de sazonalidade identificados (especialmente em Cajamar, a qual apresenta picos no mês de maio, e Santana de Parnaíba)
 
 ## Próximos Passos
 - Implementação de modelo ARIMA para análise preditiva
