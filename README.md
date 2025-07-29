@@ -56,7 +56,8 @@ O principal objetivo deste projeto é ranquear e compreender o desenvolvimento d
   - Comparação direta entre cidades
 
 #### Dashboard Interativo
-![Dashboard de Criminalidade](https://github.com/user-attachments/assets/b6c29bf3-3a15-4029-abf1-fcf9f7c40d96)
+<img width="1504" height="803" alt="image" src="https://github.com/user-attachments/assets/674e18f9-0a18-421e-b92a-efa956dc3a36" />
+
 
 *Visualização completa dos dados de criminalidade - atualizado Julho/2025*
 
