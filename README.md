@@ -71,7 +71,7 @@ O principal objetivo deste projeto é ranquear e compreender o desenvolvimento d
 - Expansão para outras cidades da região
 
 ## Fontes de Dados
-- **Primária**: SSP-SP (2021-2024)
+- **Primária**: SSP-SP (2022-2025)
 - **Secundária**: IBGE (Censo 2022)
 
 ## Conclusão
