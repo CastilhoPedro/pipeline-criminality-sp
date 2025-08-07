@@ -2,7 +2,7 @@
 
 ## Objetivo do Projeto
 
-O principal objetivo deste projeto é ranquear e compreender o desenvolvimento da segurança pública nas cidades de **Santana de Parnaíba**, **Barueri** e **Cajamar**, com base em dados oficiais da SSP-SP. Essas três cidades possuem uma origem histórica comum — todas já fizeram parte de um único município: **Santana de Parnaíba**. Ao analisar sua evolução individual após a emancipação administrativa, o projeto busca responder:
+O principal objetivo deste projeto é analisar a evolução temporal, ranquear e compreender o desenvolvimento da segurança pública nas cidades de **Santana de Parnaíba**, **Barueri** e **Cajamar**, com base em dados oficiais da SSP-SP. Essas três cidades possuem uma origem histórica comum — todas já fizeram parte de um único município: **Santana de Parnaíba**. Ao analisar sua evolução individual após a emancipação administrativa, o projeto busca responder:
 
 - Como cada cidade tem se desenvolvido em termos de segurança?
 - Qual delas apresenta melhor desempenho ao longo dos anos?
@@ -47,6 +47,10 @@ O principal objetivo deste projeto é ranquear e compreender o desenvolvimento d
   - Normalização por população (IBGE Censo 2022)
   - Identificação de sazonalidade
 
+#### Comparativo de Crime/100k habitantes
+<img width="616" height="362" alt="image" src="https://github.com/user-attachments/assets/881584ef-c39e-4947-a34d-76b91f726ea3" />
+
+
 ### 5. Visualização e Dashboard
 - **Ferramenta**: Power BI
 - **Componentes**:
@@ -56,7 +60,8 @@ O principal objetivo deste projeto é ranquear e compreender o desenvolvimento d
   - Comparação direta entre cidades
 
 #### Dashboard Interativo
-<img width="1504" height="803" alt="image" src="https://github.com/user-attachments/assets/674e18f9-0a18-421e-b92a-efa956dc3a36" />
+<img width="616" height="362" alt="image" src="https://github.com/user-attachments/assets/dda2c3df-1b3d-4c0f-ba18-34e7af7726f4" />
+
 
 
 *Visualização completa dos dados de criminalidade - atualizado Julho/2025*
